@@ -1,7 +1,7 @@
 ---
 title: Training tiny AI models
 type: blog
-author: Vince Liem
+author: Gregory M. Kurtzer
 description: What OpenWALDO's tiny-model experiments teach about corpus breadth, model capacity, acceptance criteria, and sharing the training process in the open.
 ---
 
